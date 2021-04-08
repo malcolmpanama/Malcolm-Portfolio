@@ -1,7 +1,7 @@
 # Malcolm_Portfolio
 Data Science and Machine Learning portfolio
 
-# [Project  1: Data cleaning ](https://github.com/malcolmpanama/python/tree/main/Data%20Science%20and%20Machine%20Learning)
+# [Project  1: Data cleaning ](https://github.com/malcolmpanama/python/blob/main/Data%20Science%20and%20Machine%20Learning/Data%20Cleaning/Wines%20data%20cleaning%20(1).ipynb)
 * Clean a database then use machine learning to predict the prices of the missing value
 * Showcase data cleaning techniques like , drop rows, replace null values with unknown or 0s then we will predict the missing value with a model.
 * For example.
