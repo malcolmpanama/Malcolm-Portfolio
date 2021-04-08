@@ -9,7 +9,7 @@ Data Science and Machine Learning portfolio
 *	drop the columns containing Null values 
 *	Replace Null values with 'Unknown' or 0 
 *	Replace missing values with predicted values 
-
+[](https://github.com/malcolmpanama/Malcolm_Portfolio/blob/main/images/download1.png?raw=true)
 
 
 
