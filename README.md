@@ -2,8 +2,10 @@
 Data Science and Machine Learning portfolio
 
 # [Project  1: Data cleaning ](https://github.com/malcolmpanama/python/blob/main/Data%20Science%20and%20Machine%20Learning/Data%20Cleaning/Wines%20data%20cleaning%20(1).ipynb)
-* Clean a database then use machine learning to predict the prices of the missing value
-* Showcase data cleaning techniques like , drop rows, replace null values with unknown or 0s then we will predict the missing value with a model.
+* Data cleaning involve different techniques based on the problem and the data type. Different methods can be applied with each has its own trade-offs.
+* Overall, incorrect data is either removed, corrected, or imputed.
+* In this project I attempt to clean a database then use machine learning to predict the prices of the missing value
+* My goal is to showcase data cleaning techniques like , drop rows, replace null values with unknown or 0s then we will predict the missing value with a model.
 * For example.
 *	drop the rows containing Null values 
 *	drop the columns containing Null values 
@@ -14,10 +16,9 @@ Data Science and Machine Learning portfolio
 
 
 
-
-# [Project  2: Porfolio Organizer](https://github.com/malcolmpanama/python/blob/main/Finance/portfolio_showcase_simple_returns.py)
-* Program that showcases a porfolio information
-* Using, pandas , numpy and matplotlib for visualization
+# [Project  2: Portfolio Organizer](https://github.com/malcolmpanama/python/blob/main/Finance/portfolio_showcase_simple_returns.py)
+* A portfolio is a collection of financial investments like stocks ,this python program can help you keeps track of your stock information.
+* Using pandas , numpy and matplotlib for visualization
 * With this program we can keep track of:
 * Daily Returns
 * Stock volatility
